@@ -11,12 +11,14 @@ h2 {
 }
 
 img {
+    border-radius: 10px;
     height: 200px;
     margin: 10px;
     width: auto;
 }
 
 .card {
+    border-radius: 10px;
     background-color: lightgrey;
     margin: 10px;
     padding: 20px;
